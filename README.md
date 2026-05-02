@@ -32,7 +32,8 @@ custom_nav_bot/
 │   └── main_container.cpp
 ├── CMakeLists.txt
 └── package.xml
-
+```
+---
 ## How to Build and Run
 
 ###1. Build the Workspace

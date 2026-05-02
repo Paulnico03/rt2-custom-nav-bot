@@ -1,0 +1,15 @@
+# Goal definition
+float64 target_x
+float64 target_y
+float64 target_theta
+---
+# Result definition
+bool is_successful
+string final_status
+---
+# Feedback definition
+float64 robot_x
+float64 robot_y
+float64 robot_theta
+float64 distance_to_target
+float64 angle_to_target
